@@ -20,7 +20,7 @@ Battle Arena is simple turn-based auto battler game without GUI. It's been creat
 * Maven, Docker
 * JUnit 5.9, Mockito 4.7
 * MySQL 8
-* Hibernate 6.1
+* JPA, Hibernate 6.1
 
 ## Launch
 To start the project follow steps:
